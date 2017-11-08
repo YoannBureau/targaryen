@@ -6,7 +6,7 @@ targaryen
 
 Completely and thoroughly test your Firebase security rules without connecting to Firebase.
 
-##### This version gets rid of fs in order to use it natively with Angular CLI tests
+**This version gets rid of fs in order to use it natively with Angular CLI tests**
 
 ## Usage
 
